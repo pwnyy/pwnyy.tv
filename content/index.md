@@ -1,6 +1,6 @@
 ---
 title: Home
-navigation: false
+navigation: true
 ---
 
 ::hero
@@ -26,5 +26,5 @@ Beautifully designed Nuxt Content template with shadcn-vue.<br>Customizable. Com
 ::
 
 <div class="border rounded-lg shadow-md">
-  <iframe src="/getting-started/writing/components" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0">
+  <TwitchPlayerChat parentDomain="localhost" />
 </div>

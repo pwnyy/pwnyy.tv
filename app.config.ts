@@ -1,21 +1,21 @@
 export default defineAppConfig({
   shadcnDocs: {
     site: {
-      name: 'shadcn-docs-nuxt',
-      description: 'Beautifully designed Nuxt Content template built with shadcn-vue. Customizable. Compatible. Open Source.',
+      name: 'pwnyy',
+      description: 'Streamer.bot extensions by pwnyy.',
     },
     header: {
-      title: 'shadcn-docs-starter',
+      title: 'pwnyy',
       showTitle: true,
-      darkModeToggle: true,
+      darkModeToggle: false,
       logo: {
         light: '/logo.svg',
         dark: '/logo-dark.svg',
       },
       nav: [],
       links: [{
-        icon: 'lucide:github',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
+        icon: 'lucide:twitch',
+        to: 'https://www.twitch.tv/pwnyytv',
         target: '_blank',
       }],
     },
@@ -36,7 +36,7 @@ export default defineAppConfig({
       }],
     },
     toc: {
-      enable: true,
+      enable: false,
       title: 'On This Page',
       links: [{
         title: 'Star on GitHub',
