@@ -12,10 +12,10 @@ announcement:
 actions:
   - name: Extensions
     to: /extensions
-  - name: GitHub
+  - name: Twitch
     variant: outline
-    to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
-    leftIcon: 'lucide:github'
+    to: https://twitch.tv/pwnyytv
+    leftIcon: 'lucide:twitch'
 ---
 
 #title
