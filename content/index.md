@@ -6,12 +6,12 @@ navigation: true
 ::hero
 ---
 announcement:
-  title: 'Release v0.2.0'
+  title: 'New Extension!'
   icon: 'noto:party-popper'
-  to: /getting-started
+  to: /extensions/game-rating
 actions:
-  - name: Get Started
-    to: /getting-started
+  - name: Extensions
+    to: /extensions
   - name: GitHub
     variant: outline
     to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
